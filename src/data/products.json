@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 101,
+    "thumbnails": [],
+    "code": "code1",
+    "stock": 11,
+    "category": "Categoría 1",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 102,
+    "thumbnails": [],
+    "code": "code2",
+    "stock": 12,
+    "category": "Categoría 2",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Producto 3",
+    "description": "Descripción del producto 3",
+    "price": 103,
+    "thumbnails": [],
+    "code": "code3",
+    "stock": 13,
+    "category": "Categoría 3",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Producto 4",
+    "description": "Descripción del producto 4",
+    "price": 104,
+    "thumbnails": [],
+    "code": "code4",
+    "stock": 14,
+    "category": "Categoría 4",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Producto 5",
+    "description": "Descripción del producto 5",
+    "price": 105,
+    "thumbnails": [],
+    "code": "code5",
+    "stock": 15,
+    "category": "Categoría 5",
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Producto 6",
+    "description": "Descripción del producto 6",
+    "price": 106,
+    "thumbnails": [],
+    "code": "code6",
+    "stock": 16,
+    "category": "Categoría 6",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Producto 7",
+    "description": "Descripción del producto 7",
+    "price": 107,
+    "thumbnails": [],
+    "code": "code7",
+    "stock": 17,
+    "category": "Categoría 7",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Producto 8",
+    "description": "Descripción del producto 8",
+    "price": 108,
+    "thumbnails": [],
+    "code": "code8",
+    "stock": 18,
+    "category": "Categoría 8",
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Producto 9",
+    "description": "Descripción del producto 9",
+    "price": 109,
+    "thumbnails": [],
+    "code": "code9",
+    "stock": 19,
+    "category": "Categoría 9",
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Producto 10",
+    "description": "Descripción del producto 10",
+    "price": 110,
+    "thumbnails": [],
+    "code": "code10",
+    "stock": 20,
+    "category": "Categoría 10",
+    "status": true
+  }
+]
