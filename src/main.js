@@ -44,9 +44,7 @@ const main = async () => {
     app.use("/api/products", productsRouter(productManager));
     app.use("/api/carts", cartsRouter(cartManager));
 
-    app.get('/', (req, res) => {
-        res.send('Welcome to the Product and Cart API!');
-    });
+   
     
 
     app.listen(PORT, () => {
