@@ -1,0 +1,29 @@
+<div class="productsContainerPadre">
+    <h1 class="h2 p-3">Todos los productos</h1>
+
+    <div class="productsContainerHijo p-3">
+        <div class="row">
+            {{#each products}}
+            <div class="col-sm-6 col-md-4 col-lg-3 mb-3">
+                <div class="card rounded-5">
+                    <div class="card-body shadow text-center rounded-5">
+                        <p><strong>{{this.title}}</strong></p>
+                        <p>Descripción: {{this.description}}</p>
+                        <p>Precio: {{this.price}}</p>
+                        <p>Código: {{this.code}}</p>
+                        <p>Stock: {{this.stock}}</p>
+                        <p>Categoría: {{this.category}}</p>
+                        <p>Estado:
+                            {{#if this.status}}
+                            Activo
+                            {{else}}
+                            Inactivo
+                            {{/if}}</p>
+                        <p>Imágenes: {{this.thumbnails}}</p>
+                    </div>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</div>

@@ -3,15 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/main.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "dev": "node --watch src/main.js"
+    "dev": "node --watch src/app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0",
-    "nodemon": "^3.1.7"
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.0"
   }
 }
