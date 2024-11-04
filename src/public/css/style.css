@@ -33,3 +33,9 @@ footer {
 .titleForm {
   color: #AA9989;
 }
+
+.card p {
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
